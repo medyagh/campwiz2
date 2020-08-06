@@ -12,6 +12,6 @@ RUN go mod download
 COPY . ./
 
 # Compile the application to /app.
-RUN go build -o /app -v ./cmd/server
+RUN go build -o /app -v ./cmd/campwiz2
 
 ENTRYPOINT ["/app"]
