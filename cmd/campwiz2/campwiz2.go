@@ -1,21 +1,28 @@
 package main
 
 import (
-	"fmt"
 	"log"
 	"net/http"
+	"text/template"
 
 	"github.com/medyagh/campwiz2/pkg/ramerica"
 )
 
 func handler(w http.ResponseWriter, r *http.Request) {
-	res, err := ramerica.Search()
+	results, err := ramerica.Search()
 	if err != nil {
-		log.Printf("failed to search reserve america. Resp: %v  error: %v", res, err)
+		log.Printf("failed to search reserve america. resp: %v  error: %v", results, err)
 	}
 
-	// fmt.Fprintf(w, "Hi there, I love %s!", r.URL.Path[1:])
-	fmt.Fprintf(w, "\n%s\n", res.Body)
+	tmpl, err := template.New("test").Parse(ResultsTemplate)
+	if err != nil {
+		log.Fatalf("failed to parse template")
+	}
+
+	err = tmpl.Execute(w, results)
+	if err != nil {
+		panic(err)
+	}
 
 }
 
