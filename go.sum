@@ -1,2 +1,4 @@
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/tstromberg/campwiz v0.0.0-20180830051243-cf05d1d4da87 h1:lKbFnsbTuQpEtl2HbQ7D0tDc5p2HR7pwlqme+Vp+w8s=
+github.com/tstromberg/campwiz v0.0.0-20180830051243-cf05d1d4da87/go.mod h1:wGj5Ls2Dwwx1O7EhJD1FkHS4JZH617ZT7XnaUY1TCGo=

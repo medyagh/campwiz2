@@ -1,5 +1,7 @@
 package ramerica
 
+import "github.com/tstromberg/campwiz/result"
+
 // SearchPage holds all the reponse for a search resul curl
 type SearchPage struct {
 	TotalRecords int `json:"totalRecords"`
@@ -22,7 +24,7 @@ type SearchPage struct {
 	ActvAdvInfo interface{} `json:"actvAdvInfo"`
 }
 
-// Record holds one campsite record
+// Record holds one campsite record// Record is a specific Campsite Record
 type Record struct {
 	Type            string      `json:"type"`
 	NamingID        string      `json:"namingId"`
@@ -36,15 +38,18 @@ type Record struct {
 	Proximity       float64     `json:"proximity"`
 	Summary         interface{} `json:"summary"`
 	Details         struct {
-		ID                     int         `json:"id"`
-		ContrCode              string      `json:"contrCode"`
-		StateCodes             []string    `json:"stateCodes"`
-		Name                   string      `json:"name"`
-		BaseURL                string      `json:"baseURL"`
-		ImageURL               string      `json:"imageURL"`
-		VerifiableAvailability bool        `json:"verifiableAvailability"`
-		Availability           interface{} `json:"availability"`
-		Affiliation            struct {
+		ID                     int      `json:"id"`
+		ContrCode              string   `json:"contrCode"`
+		StateCodes             []string `json:"stateCodes"`
+		Name                   string   `json:"name"`
+		BaseURL                string   `json:"baseURL"`
+		ImageURL               string   `json:"imageURL"`
+		VerifiableAvailability bool     `json:"verifiableAvailability"`
+		Availability           struct {
+			Available      bool   `json:"available"`
+			ReservableType string `json:"reservableType"`
+		} `json:"availability"`
+		Affiliation struct {
 			FacilityID int         `json:"facilityID"`
 			Name       string      `json:"name"`
 			URL        interface{} `json:"url"`
@@ -62,7 +67,7 @@ type Record struct {
 		Cta           struct {
 			Caption string      `json:"caption"`
 			URL     interface{} `json:"url"`
-			Type    string      `json:"type"`
+			Type    interface{} `json:"type"`
 		} `json:"cta"`
 		DayUse          bool        `json:"dayUse"`
 		DayUseOnly      bool        `json:"dayUseOnly"`
@@ -71,7 +76,7 @@ type Record struct {
 		ActvAdvInd      interface{} `json:"actvAdvInd"`
 		FavoriteSupport bool        `json:"favoriteSupport"`
 		Favorite        bool        `json:"favorite"`
-		WebAddress      string      `json:"webAddress"`
+		WebAddress      interface{} `json:"webAddress"`
 		Coordinates     struct {
 			Latitude           float64     `json:"latitude"`
 			LatitudeDec        interface{} `json:"latitudeDec"`
@@ -91,5 +96,8 @@ type Record struct {
 		} `json:"offeringSupport"`
 		NonClientFacility bool `json:"nonClientFacility"`
 	} `json:"details"`
-	LogoSrc interface{} `json:"logoSrc"`
+	LogoSrc interface{}   `json:"logoSrc"`
+	M       result.MEntry // M is record from book
 }
+
+var Records []Record
