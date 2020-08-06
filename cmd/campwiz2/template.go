@@ -1,7 +1,7 @@
 package main
 
 var ResultsTemplate = `
-{{range $index, $element := .Records}}
+{{range $index, $element := .}}
 	{{$index}} 	{{.Name}}
 {{end}}
 `
