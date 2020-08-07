@@ -1,9 +1,7 @@
 package ramerica
 
-import "github.com/tstromberg/campwiz/result"
-
 // SearchPage holds all the reponse for a search resul curl
-type SearchPage struct {
+type SearchPage2 struct {
 	TotalRecords int `json:"totalRecords"`
 	TotalPages   int `json:"totalPages"`
 	StartIndex   int `json:"startIndex"`
@@ -96,8 +94,25 @@ type Record struct {
 		} `json:"offeringSupport"`
 		NonClientFacility bool `json:"nonClientFacility"`
 	} `json:"details"`
-	LogoSrc interface{}   `json:"logoSrc"`
-	M       result.MEntry // M is record from book
+	LogoSrc interface{} `json:"logoSrc"`
 }
-
-var Records []Record
+type SearchPage struct {
+	TotalRecords int `json:"totalRecords"`
+	TotalPages   int `json:"totalPages"`
+	StartIndex   int `json:"startIndex"`
+	EndIndex     int `json:"endIndex"`
+	Control      struct {
+		CurrentPage int `json:"currentPage"`
+		PageSize    int `json:"pageSize"`
+	} `json:"control"`
+	Records      []Record `json:"records"`
+	TypesSummary struct {
+		ContractTypeFEDERAL  int `json:"ContractType[FEDERAL]"`
+		ContractTypeSTATE    int `json:"ContractType[STATE]"`
+		ContractTypeREGIONAL int `json:"ContractType[REGIONAL]"`
+		ContractTypeCOUNTY   int `json:"ContractType[COUNTY]"`
+		ContractTypePRIVATE  int `json:"ContractType[PRIVATE]"`
+		ContractTypeOTHER    int `json:"ContractType[OTHER]"`
+	} `json:"typesSummary"`
+	ActvAdvInfo interface{} `json:"actvAdvInfo"`
+}
