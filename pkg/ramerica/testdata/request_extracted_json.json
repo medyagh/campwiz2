@@ -766,11 +766,2902 @@
               "favorite": false
             },
             "id": 750155
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "BIG BASIN TENT CABINS.",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 17.72,
+            "name": "BIG BASIN TENT CABINS.",
+            "targetItem": false,
+            "namingId": "SLST_750245",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "SLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "CA State Parks",
+                    "name": "California State Parks",
+                    "logo": null,
+                    "id": 750010,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 750245,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.1852778,
+                "latitudeDegMinSec": null,
+                "longitude": -122.2286111
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "BIG BASIN TENT CABINS.",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 750245
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "BUTANO SP",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 18.06,
+            "name": "BUTANO SP",
+            "targetItem": false,
+            "namingId": "SLST_750159",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "SLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "CA State Parks",
+                    "name": "California State Parks",
+                    "logo": null,
+                    "id": 750010,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 750159,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.2227778,
+                "latitudeDegMinSec": null,
+                "longitude": -122.3022222
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "BUTANO SP",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 750159
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "LITTLE BASIN STATE PARK",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 18.98,
+            "name": "LITTLE BASIN STATE PARK",
+            "targetItem": false,
+            "namingId": "SLST_750253",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "SLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "CA State Parks",
+                    "name": "California State Parks",
+                    "logo": null,
+                    "id": 750010,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 750253,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.1553333,
+                "latitudeDegMinSec": null,
+                "longitude": -122.2031667
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "LITTLE BASIN STATE PARK",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 750253
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "HALF MOON BAY SB",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 20.72,
+            "name": "HALF MOON BAY SB",
+            "targetItem": false,
+            "namingId": "SLST_750182",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "SLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "CA State Parks",
+                    "name": "California State Parks",
+                    "logo": null,
+                    "id": 750010,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 750182,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.4597222,
+                "latitudeDegMinSec": null,
+                "longitude": -122.4441667
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "HALF MOON BAY SB",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 750182
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Anthony Chabot",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 22.59,
+            "name": "Anthony Chabot",
+            "targetItem": false,
+            "namingId": "EB_110004",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=EB&parkId=110004&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": {
+                "available": false,
+                "reservableType": "FIELD_AVAILABLE"
+              },
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_find_next_available",
+                "type": null,
+                "url": null
+              },
+              "contrCode": "EB",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "East Bay Parks",
+                    "name": "East Bay Parks",
+                    "logo": null,
+                    "id": 110000,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/EB/pid110004/0/180x120.jpg",
+              "id": 110004,
+              "verifiableAvailability": true,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "www.ebparks/org/parks/anthony_chabot",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.7352778,
+                "latitudeDegMinSec": null,
+                "longitude": -122.0961111
+              },
+              "baseURL": "/camping/anthony-chabot/r/facilityDetails.do?contractCode=EB&parkId=110004",
+              "stateCodes": ["CA"],
+              "name": "Anthony Chabot",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 110004
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Santa Cruz North / Costanoa KOA",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 23.22,
+            "name": "Santa Cruz North / Costanoa KOA",
+            "targetItem": false,
+            "namingId": "KOAI_730507",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=KOAI&parkId=730507&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": "https://koa.com/campgrounds/santa-cruz-north/"
+              },
+              "contrCode": "KOAI",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "KOA Campground",
+                    "name": "KOA Campground",
+                    "logo": null,
+                    "id": 730001,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/KOAI/pid730507/0/180x120.jpg",
+              "id": 730507,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "https://koa.com/campgrounds/santa-cruz-north/",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.1551389,
+                "latitudeDegMinSec": null,
+                "longitude": -122.3481472
+              },
+              "baseURL": "/unifSearchInterface.do?interface=camping&contractCode=KOAI&parkId=730507",
+              "stateCodes": ["CA"],
+              "name": "Santa Cruz North / Costanoa KOA",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 730507
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Del Valle",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 23.86,
+            "name": "Del Valle",
+            "targetItem": false,
+            "namingId": "EB_110003",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=EB&parkId=110003&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": {
+                "available": false,
+                "reservableType": "FIELD_AVAILABLE"
+              },
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_find_next_available",
+                "type": null,
+                "url": null
+              },
+              "contrCode": "EB",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "East Bay Parks",
+                    "name": "East Bay Parks",
+                    "logo": null,
+                    "id": 110000,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/EB/pid110003/0/180x120.jpg",
+              "id": 110003,
+              "verifiableAvailability": true,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.5691667,
+                "latitudeDegMinSec": null,
+                "longitude": -121.6872222
+              },
+              "baseURL": "/camping/del-valle/r/facilityDetails.do?contractCode=EB&parkId=110003",
+              "stateCodes": ["CA"],
+              "name": "Del Valle",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 110003
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Coyote Valley RV Resort",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 24.86,
+            "name": "Coyote Valley RV Resort",
+            "targetItem": false,
+            "namingId": "INDP_721038",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=INDP&parkId=721038&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": "https://www.goodsam.com/campgrounds-rv-parks/details/default.aspx?cgid=260001301&utm_source=Reserve%20America&utm_medium=referral&utm_campaign=260001301"
+              },
+              "contrCode": "INDP",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "Good Sam Park",
+                    "name": "Good Sam Park",
+                    "logo": null,
+                    "id": 720011,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/INDP/pid721038/0/180x120.jpg",
+              "id": 721038,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "https://www.goodsam.com/campgrounds-rv-parks/details/default.aspx?cgid=260001301&utm_source=Reserve%20America&utm_medium=referral&utm_campaign=260001301",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.1913889,
+                "latitudeDegMinSec": null,
+                "longitude": -121.7130972
+              },
+              "baseURL": "/unifSearchInterface.do?interface=camping&contractCode=INDP&parkId=721038",
+              "stateCodes": ["CA"],
+              "name": "Coyote Valley RV Resort",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 721038
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Santa Cruz Ranch RV Resort",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 25.21,
+            "name": "Santa Cruz Ranch RV Resort",
+            "targetItem": false,
+            "namingId": "ELSI_740123",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=ELSI&parkId=740123&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": "http://www.rvonthego.com/california/santa-cruz-ranch-rv-resort/?utm_source=Reserve%20America&utm_medium=directory&utm_campaign=Reserve%20America%20Directory"
+              },
+              "contrCode": "ELSI",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "ELS Agency",
+                    "name": "Encore",
+                    "logo": null,
+                    "id": 740001,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/ELSI/pid740123/0/180x120.jpg",
+              "id": 740123,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "http://www.rvonthego.com/california/santa-cruz-ranch-rv-resort/?utm_source=Reserve%20America&utm_medium=directory&utm_campaign=Reserve%20America%20Directory",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.0476833,
+                "latitudeDegMinSec": null,
+                "longitude": -122.0140917
+              },
+              "baseURL": "/unifSearchInterface.do?interface=camping&contractCode=ELSI&parkId=740123",
+              "stateCodes": ["CA"],
+              "name": "Santa Cruz Ranch RV Resort",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 740123
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "HENRY COWELL REDWOODS SP",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 26.7,
+            "name": "HENRY COWELL REDWOODS SP",
+            "targetItem": false,
+            "namingId": "SLST_750184",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "SLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "CA State Parks",
+                    "name": "California State Parks",
+                    "logo": null,
+                    "id": 750010,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 750184,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.0236111,
+                "latitudeDegMinSec": null,
+                "longitude": -122.0519444
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "HENRY COWELL REDWOODS SP",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 750184
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Las Trampas Regional Wilderness",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 27.31,
+            "name": "Las Trampas Regional Wilderness",
+            "targetItem": false,
+            "namingId": "EB_110455",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=EB&parkId=110455&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": {
+                "available": false,
+                "reservableType": "FIELD_AVAILABLE"
+              },
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_find_next_available",
+                "type": null,
+                "url": null
+              },
+              "contrCode": "EB",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "East Bay Parks",
+                    "name": "East Bay Parks",
+                    "logo": null,
+                    "id": 110000,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 110455,
+              "verifiableAvailability": true,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "www.ebparks.org/parks/las_trampas",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.8038889,
+                "latitudeDegMinSec": null,
+                "longitude": -122.0575
+              },
+              "baseURL": "/camping/las-trampas-regional-wilderness/r/facilityDetails.do?contractCode=EB&parkId=110455",
+              "stateCodes": ["CA"],
+              "name": "Las Trampas Regional Wilderness",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 110455
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "San Francisco RV Resort",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 28.26,
+            "name": "San Francisco RV Resort",
+            "targetItem": false,
+            "namingId": "ELSI_740179",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=ELSI&parkId=740179&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": "http://www.rvonthego.com/california/san-francisco-rv-resort/?utm_source=Reserve%20America&utm_medium=directory&utm_campaign=Reserve%20America%20Directory"
+              },
+              "contrCode": "ELSI",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "ELS Agency",
+                    "name": "Encore",
+                    "logo": null,
+                    "id": 740001,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/ELSI/pid740179/0/180x120.jpg",
+              "id": 740179,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "http://www.rvonthego.com/california/san-francisco-rv-resort/?utm_source=Reserve%20America&utm_medium=directory&utm_campaign=Reserve%20America%20Directory",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.6460583,
+                "latitudeDegMinSec": null,
+                "longitude": -122.4921972
+              },
+              "baseURL": "/unifSearchInterface.do?interface=camping&contractCode=ELSI&parkId=740179",
+              "stateCodes": ["CA"],
+              "name": "San Francisco RV Resort",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 740179
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Reinhardt Redwood Regional Park",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 30.02,
+            "name": "Reinhardt Redwood Regional Park",
+            "targetItem": false,
+            "namingId": "EB_110458",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=EB&parkId=110458&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": {
+                "available": false,
+                "reservableType": "FIELD_AVAILABLE"
+              },
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_find_next_available",
+                "type": null,
+                "url": null
+              },
+              "contrCode": "EB",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "East Bay Parks",
+                    "name": "East Bay Parks",
+                    "logo": null,
+                    "id": 110000,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/EB/pid110458/0/180x120.jpg",
+              "id": 110458,
+              "verifiableAvailability": true,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "www.ebparks.org/redwood",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.8313889,
+                "latitudeDegMinSec": null,
+                "longitude": -122.1997222
+              },
+              "baseURL": "/camping/reinhardt-redwood-regional-park/r/facilityDetails.do?contractCode=EB&parkId=110458",
+              "stateCodes": ["CA"],
+              "name": "Reinhardt Redwood Regional Park",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 110458
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "NEW BRIGHTON SB",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 30.74,
+            "name": "NEW BRIGHTON SB",
+            "targetItem": false,
+            "namingId": "SLST_750207",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "SLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "CA State Parks",
+                    "name": "California State Parks",
+                    "logo": null,
+                    "id": 750010,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 750207,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 36.9786111,
+                "latitudeDegMinSec": null,
+                "longitude": -121.9347222
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "NEW BRIGHTON SB",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 750207
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Sibley Volcanic Regional Preserve",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 31.11,
+            "name": "Sibley Volcanic Regional Preserve",
+            "targetItem": false,
+            "namingId": "EB_110550",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=EB&parkId=110550&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": {
+                "available": false,
+                "reservableType": "FIELD_AVAILABLE"
+              },
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_find_next_available",
+                "type": null,
+                "url": null
+              },
+              "contrCode": "EB",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "East Bay Parks",
+                    "name": "East Bay Parks",
+                    "logo": null,
+                    "id": 110000,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/EB/pid110550/0/180x120.jpg",
+              "id": 110550,
+              "verifiableAvailability": true,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "http://www.ebparks.org/parks/sibley",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.8477778,
+                "latitudeDegMinSec": null,
+                "longitude": -122.1983333
+              },
+              "baseURL": "/camping/sibley-volcanic-regional-preserve/r/facilityDetails.do?contractCode=EB&parkId=110550",
+              "stateCodes": ["CA"],
+              "name": "Sibley Volcanic Regional Preserve",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 110550
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "SEACLIFF SB",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 31.56,
+            "name": "SEACLIFF SB",
+            "targetItem": false,
+            "namingId": "SLST_750230",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "SLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "CA State Parks",
+                    "name": "California State Parks",
+                    "logo": null,
+                    "id": 750010,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 750230,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 36.9713889,
+                "latitudeDegMinSec": null,
+                "longitude": -121.9111111
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "SEACLIFF SB",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 750230
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Morgan Territory Regional Preserve",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 32.16,
+            "name": "Morgan Territory Regional Preserve",
+            "targetItem": false,
+            "namingId": "EB_110456",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=EB&parkId=110456&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": {
+                "available": false,
+                "reservableType": "FIELD_AVAILABLE"
+              },
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_find_next_available",
+                "type": null,
+                "url": null
+              },
+              "contrCode": "EB",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "East Bay Parks",
+                    "name": "East Bay Parks",
+                    "logo": null,
+                    "id": 110000,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 110456,
+              "verifiableAvailability": true,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "www.ebparks.org/parks/morgan",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.8191667,
+                "latitudeDegMinSec": null,
+                "longitude": -121.7955556
+              },
+              "baseURL": "/camping/morgan-territory-regional-preserve/r/facilityDetails.do?contractCode=EB&parkId=110456",
+              "stateCodes": ["CA"],
+              "name": "Morgan Territory Regional Preserve",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 110456
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "MT. DIABLO SP",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 32.33,
+            "name": "MT. DIABLO SP",
+            "targetItem": false,
+            "namingId": "SLST_750204",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "SLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "CA State Parks",
+                    "name": "California State Parks",
+                    "logo": null,
+                    "id": 750010,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 750204,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.8627778,
+                "latitudeDegMinSec": null,
+                "longitude": -121.93
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "MT. DIABLO SP",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 750204
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "HENRY W COE SP",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 32.83,
+            "name": "HENRY W COE SP",
+            "targetItem": false,
+            "namingId": "SLST_750244",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "SLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "CA State Parks",
+                    "name": "California State Parks",
+                    "logo": null,
+                    "id": 750010,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 750244,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.18,
+                "latitudeDegMinSec": null,
+                "longitude": -121.55
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "HENRY W COE SP",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 750244
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Morgan Hill RV Resort",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 33.01,
+            "name": "Morgan Hill RV Resort",
+            "targetItem": false,
+            "namingId": "ELSI_740222",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=ELSI&parkId=740222&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": "http://www.rvonthego.com/california/morgan-hill-rv-resort/?utm_source=Reserve%20America&utm_medium=directory&utm_campaign=Reserve%20America%20Directory"
+              },
+              "contrCode": "ELSI",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "ELS Agency",
+                    "name": "Encore",
+                    "logo": null,
+                    "id": 740001,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/ELSI/pid740222/0/180x120.jpg",
+              "id": 740222,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "http://www.rvonthego.com/california/morgan-hill-rv-resort/?utm_source=Reserve%20America&utm_medium=directory&utm_campaign=Reserve%20America%20Directory",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.057175,
+                "latitudeDegMinSec": null,
+                "longitude": -121.667625
+              },
+              "baseURL": "/unifSearchInterface.do?interface=camping&contractCode=ELSI&parkId=740222",
+              "stateCodes": ["CA"],
+              "name": "Morgan Hill RV Resort",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 740222
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Tilden Regional Park",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 35.56,
+            "name": "Tilden Regional Park",
+            "targetItem": false,
+            "namingId": "EB_110460",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=EB&parkId=110460&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": {
+                "available": false,
+                "reservableType": "FIELD_AVAILABLE"
+              },
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_find_next_available",
+                "type": null,
+                "url": null
+              },
+              "contrCode": "EB",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "East Bay Parks",
+                    "name": "East Bay Parks",
+                    "logo": null,
+                    "id": 110000,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/EB/pid110460/0/180x120.jpg",
+              "id": 110460,
+              "verifiableAvailability": true,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "www.ebparks.org/parks/tilden",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.905,
+                "latitudeDegMinSec": null,
+                "longitude": -122.2444444
+              },
+              "baseURL": "/camping/tilden-regional-park/r/facilityDetails.do?contractCode=EB&parkId=110460",
+              "stateCodes": ["CA"],
+              "name": "Tilden Regional Park",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 110460
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "MANRESA SB",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 35.62,
+            "name": "MANRESA SB",
+            "targetItem": false,
+            "namingId": "SLST_750196",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "SLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "CA State Parks",
+                    "name": "California State Parks",
+                    "logo": null,
+                    "id": 750010,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 750196,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 36.9241667,
+                "latitudeDegMinSec": null,
+                "longitude": -121.8555556
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "MANRESA SB",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 750196
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Santa Cruz / Monterey Bay KOA",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 35.67,
+            "name": "Santa Cruz / Monterey Bay KOA",
+            "targetItem": false,
+            "namingId": "KOAI_730506",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=KOAI&parkId=730506&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": "https://koa.com/campgrounds/santa-cruz/"
+              },
+              "contrCode": "KOAI",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "KOA Campground",
+                    "name": "KOA Campground",
+                    "logo": null,
+                    "id": 730001,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/KOAI/pid730506/0/180x120.jpg",
+              "id": 730506,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "https://koa.com/campgrounds/santa-cruz/",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 36.9263361,
+                "latitudeDegMinSec": null,
+                "longitude": -121.8450528
+              },
+              "baseURL": "/unifSearchInterface.do?interface=camping&contractCode=KOAI&parkId=730506",
+              "stateCodes": ["CA"],
+              "name": "Santa Cruz / Monterey Bay KOA",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 730506
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Round Valley Regional Preserve",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 36.34,
+            "name": "Round Valley Regional Preserve",
+            "targetItem": false,
+            "namingId": "EB_110459",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=EB&parkId=110459&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": {
+                "available": false,
+                "reservableType": "FIELD_AVAILABLE"
+              },
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_find_next_available",
+                "type": null,
+                "url": null
+              },
+              "contrCode": "EB",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "East Bay Parks",
+                    "name": "East Bay Parks",
+                    "logo": null,
+                    "id": 110000,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/EB/pid110459/0/180x120.jpg",
+              "id": 110459,
+              "verifiableAvailability": true,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "www.ebparks.org/parks/round_valley",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.8684722,
+                "latitudeDegMinSec": null,
+                "longitude": -121.7501972
+              },
+              "baseURL": "/camping/round-valley-regional-preserve/r/facilityDetails.do?contractCode=EB&parkId=110459",
+              "stateCodes": ["CA"],
+              "name": "Round Valley Regional Preserve",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 110459
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Briones Regional Park",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 36.48,
+            "name": "Briones Regional Park",
+            "targetItem": false,
+            "namingId": "EB_110451",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=EB&parkId=110451&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": {
+                "available": false,
+                "reservableType": "FIELD_AVAILABLE"
+              },
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_find_next_available",
+                "type": null,
+                "url": null
+              },
+              "contrCode": "EB",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "East Bay Parks",
+                    "name": "East Bay Parks",
+                    "logo": null,
+                    "id": 110000,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 110451,
+              "verifiableAvailability": true,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "www.ebparks.org/parks/briones",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.9330556,
+                "latitudeDegMinSec": null,
+                "longitude": -122.1502778
+              },
+              "baseURL": "/camping/briones-regional-park/r/facilityDetails.do?contractCode=EB&parkId=110451",
+              "stateCodes": ["CA"],
+              "name": "Briones Regional Park",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 110451
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "ANGEL ISLAND SP",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 37.09,
+            "name": "ANGEL ISLAND SP",
+            "targetItem": false,
+            "namingId": "SLST_750151",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "SLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "CA State Parks",
+                    "name": "California State Parks",
+                    "logo": null,
+                    "id": 750010,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 750151,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.8641667,
+                "latitudeDegMinSec": null,
+                "longitude": -122.4308333
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "ANGEL ISLAND SP",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 750151
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "KIRBY COVE CAMPGROUND",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 37.55,
+            "name": "KIRBY COVE CAMPGROUND",
+            "targetItem": false,
+            "namingId": "FLST_752208",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "FLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "NPS",
+                    "name": "NPS",
+                    "logo": null,
+                    "id": 751940,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 752208,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.84035,
+                "latitudeDegMinSec": null,
+                "longitude": -122.4888889
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "KIRBY COVE CAMPGROUND",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 752208
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "BICENTENNIAL CAMPGROUND",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 38.27,
+            "name": "BICENTENNIAL CAMPGROUND",
+            "targetItem": false,
+            "namingId": "FLST_752142",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "FLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "NPS",
+                    "name": "NPS",
+                    "logo": null,
+                    "id": 751940,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 752142,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.8308917,
+                "latitudeDegMinSec": null,
+                "longitude": -122.5246639
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "BICENTENNIAL CAMPGROUND",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 752142
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "FRANK RAINES REGIONAL PARK",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 38.31,
+            "name": "FRANK RAINES REGIONAL PARK",
+            "targetItem": false,
+            "namingId": "STAN_1040013",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=STAN&parkId=1040013&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": {
+                "available": false,
+                "reservableType": "FIELD_AVAILABLE"
+              },
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_find_next_available",
+                "type": null,
+                "url": null
+              },
+              "contrCode": "STAN",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "Stanislaus Agency",
+                    "name": "Stanislaus Agency",
+                    "logo": null,
+                    "id": 1040000,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/STAN/pid1040013/0/180x120.jpg",
+              "id": 1040013,
+              "verifiableAvailability": true,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.4222222,
+                "latitudeDegMinSec": null,
+                "longitude": -121.3752778
+              },
+              "baseURL": "/camping/frank-raines-regional-park/r/facilityDetails.do?contractCode=STAN&parkId=1040013",
+              "stateCodes": ["CA"],
+              "name": "FRANK RAINES REGIONAL PARK",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 1040013
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "SUNSET SB",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 38.91,
+            "name": "SUNSET SB",
+            "targetItem": false,
+            "namingId": "SLST_750237",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "SLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "CA State Parks",
+                    "name": "California State Parks",
+                    "logo": null,
+                    "id": 750010,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 750237,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 36.8816667,
+                "latitudeDegMinSec": null,
+                "longitude": -121.8272222
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "SUNSET SB",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 750237
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Point Pinole Regional Shoreline",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 43.17,
+            "name": "Point Pinole Regional Shoreline",
+            "targetItem": false,
+            "namingId": "EB_110457",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=EB&parkId=110457&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": {
+                "available": false,
+                "reservableType": "FIELD_AVAILABLE"
+              },
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_find_next_available",
+                "type": null,
+                "url": null
+              },
+              "contrCode": "EB",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "East Bay Parks",
+                    "name": "East Bay Parks",
+                    "logo": null,
+                    "id": 110000,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/EB/pid110457/0/180x120.jpg",
+              "id": 110457,
+              "verifiableAvailability": true,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "www.ebparks.org/parks/pt_pinole",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.9916667,
+                "latitudeDegMinSec": null,
+                "longitude": -122.3561111
+              },
+              "baseURL": "/camping/point-pinole-regional-shoreline/r/facilityDetails.do?contractCode=EB&parkId=110457",
+              "stateCodes": ["CA"],
+              "name": "Point Pinole Regional Shoreline",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 110457
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Commercial Carrier Parking at Muir Woods",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 43.23,
+            "name": "Commercial Carrier Parking at Muir Woods",
+            "targetItem": false,
+            "namingId": "FLST_752134",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "FLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "NPS",
+                    "name": "NPS",
+                    "logo": null,
+                    "id": 751940,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 752134,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.8928333,
+                "latitudeDegMinSec": null,
+                "longitude": -122.5724167
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "Commercial Carrier Parking at Muir Woods",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 752134
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Marin Park",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 44.06,
+            "name": "Marin Park",
+            "targetItem": false,
+            "namingId": "INDP_722505",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=INDP&parkId=722505&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": "https://www.goodsam.com/campgrounds-rv-parks/details/default.aspx?cgid=100011904&utm_source=Reserve%20America&utm_medium=referral&utm_campaign=100011904"
+              },
+              "contrCode": "INDP",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "Good Sam Park",
+                    "name": "Good Sam Park",
+                    "logo": null,
+                    "id": 720011,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/INDP/pid722505/0/180x120.jpg",
+              "id": 722505,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "https://www.goodsam.com/campgrounds-rv-parks/details/default.aspx?cgid=100011904&utm_source=Reserve%20America&utm_medium=referral&utm_campaign=100011904",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.9411111,
+                "latitudeDegMinSec": null,
+                "longitude": -122.5151806
+              },
+              "baseURL": "/unifSearchInterface.do?interface=camping&contractCode=INDP&parkId=722505",
+              "stateCodes": ["CA"],
+              "name": "Marin Park",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 722505
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "MOUNT TAMALPAIS SP",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 44.61,
+            "name": "MOUNT TAMALPAIS SP",
+            "targetItem": false,
+            "namingId": "SLST_750206",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "SLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "CA State Parks",
+                    "name": "California State Parks",
+                    "logo": null,
+                    "id": 750010,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 750206,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 37.9038889,
+                "latitudeDegMinSec": null,
+                "longitude": -122.595
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "MOUNT TAMALPAIS SP",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 750206
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Moss Landing KOA Express",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 45.04,
+            "name": "Moss Landing KOA Express",
+            "targetItem": false,
+            "namingId": "KOAI_730405",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=KOAI&parkId=730405&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": "https://koa.com/campgrounds/moss-landing/"
+              },
+              "contrCode": "KOAI",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "KOA Campground",
+                    "name": "KOA Campground",
+                    "logo": null,
+                    "id": 730001,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/KOAI/pid730405/0/180x120.jpg",
+              "id": 730405,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "https://koa.com/campgrounds/moss-landing/",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 36.7993056,
+                "latitudeDegMinSec": null,
+                "longitude": -121.7861667
+              },
+              "baseURL": "/unifSearchInterface.do?interface=camping&contractCode=KOAI&parkId=730405",
+              "stateCodes": ["CA"],
+              "name": "Moss Landing KOA Express",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 730405
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Betabel RV Park",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 45.17,
+            "name": "Betabel RV Park",
+            "targetItem": false,
+            "namingId": "INDP_722545",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=INDP&parkId=722545&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": "https://www.goodsam.com/campgrounds-rv-parks/details/default.aspx?cgid=930000136&utm_source=Reserve%20America&utm_medium=referral&utm_campaign=930000136"
+              },
+              "contrCode": "INDP",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "Good Sam Park",
+                    "name": "Good Sam Park",
+                    "logo": null,
+                    "id": 720011,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/INDP/pid722545/0/180x120.jpg",
+              "id": 722545,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "https://www.goodsam.com/campgrounds-rv-parks/details/default.aspx?cgid=930000136&utm_source=Reserve%20America&utm_medium=referral&utm_campaign=930000136",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 36.9009806,
+                "latitudeDegMinSec": null,
+                "longitude": -121.5578806
+              },
+              "baseURL": "/unifSearchInterface.do?interface=camping&contractCode=INDP&parkId=722545",
+              "stateCodes": ["CA"],
+              "name": "Betabel RV Park",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 722545
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "CHINA CAMP SP",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 46.1,
+            "name": "CHINA CAMP SP",
+            "targetItem": false,
+            "namingId": "SLST_750164",
+            "details": {
+              "lineOfBusinesses": null,
+              "legacyRequired": false,
+              "offeringSupport": null,
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": true,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": null
+              },
+              "contrCode": "SLST",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "CA State Parks",
+                    "name": "California State Parks",
+                    "logo": null,
+                    "id": 750010,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": null,
+              "id": 750164,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": null,
+              "dayUseOnly": true,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 38.0008333,
+                "latitudeDegMinSec": null,
+                "longitude": -122.4605556
+              },
+              "baseURL": null,
+              "stateCodes": ["CA"],
+              "name": "CHINA CAMP SP",
+              "dayUse": true,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 750164
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Tradewinds RV Park Of Vallejo",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 47.65,
+            "name": "Tradewinds RV Park Of Vallejo",
+            "targetItem": false,
+            "namingId": "INDP_721468",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=INDP&parkId=721468&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": "https://www.goodsam.com/campgrounds-rv-parks/details/default.aspx?cgid=750000106&utm_source=Reserve%20America&utm_medium=referral&utm_campaign=750000106"
+              },
+              "contrCode": "INDP",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "Good Sam Park",
+                    "name": "Good Sam Park",
+                    "logo": null,
+                    "id": 720011,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/INDP/pid721468/0/180x120.jpg",
+              "id": 721468,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "https://www.goodsam.com/campgrounds-rv-parks/details/default.aspx?cgid=750000106&utm_source=Reserve%20America&utm_medium=referral&utm_campaign=750000106",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 38.0862806,
+                "latitudeDegMinSec": null,
+                "longitude": -122.2332111
+              },
+              "baseURL": "/unifSearchInterface.do?interface=camping&contractCode=INDP&parkId=721468",
+              "stateCodes": ["CA"],
+              "name": "Tradewinds RV Park Of Vallejo",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 721468
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Casa de Fruta RV Park",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 47.82,
+            "name": "Casa de Fruta RV Park",
+            "targetItem": false,
+            "namingId": "INDP_722372",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=INDP&parkId=722372&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": "https://www.goodsam.com/campgrounds-rv-parks/details/default.aspx?cgid=740002278&utm_source=Reserve%20America&utm_medium=referral&utm_campaign=740002278"
+              },
+              "contrCode": "INDP",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "Good Sam Park",
+                    "name": "Good Sam Park",
+                    "logo": null,
+                    "id": 720011,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/INDP/pid722372/0/180x120.jpg",
+              "id": 722372,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "https://www.goodsam.com/campgrounds-rv-parks/details/default.aspx?cgid=740002278&utm_source=Reserve%20America&utm_medium=referral&utm_campaign=740002278",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 36.9944806,
+                "latitudeDegMinSec": null,
+                "longitude": -121.3779306
+              },
+              "baseURL": "/unifSearchInterface.do?interface=camping&contractCode=INDP&parkId=722372",
+              "stateCodes": ["CA"],
+              "name": "Casa de Fruta RV Park",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 722372
+          },
+          {
+            "summary": null,
+            "matchingFilters": true,
+            "namingLabel": "Salinas / Monterey KOA",
+            "available": false,
+            "reservableType": null,
+            "type": "camping",
+            "logoSrc": null,
+            "proximity": 48.19,
+            "name": "Salinas / Monterey KOA",
+            "targetItem": false,
+            "namingId": "KOAI_730495",
+            "details": {
+              "lineOfBusinesses": ["CAMPING"],
+              "legacyRequired": false,
+              "offeringSupport": [
+                {
+                  "business": "CAMPING",
+                  "type": "LEGACY",
+                  "url": "/unifSearchInterface.do?interface=campavdetails&contractCode=KOAI&parkId=730495&legacy=true"
+                }
+              ],
+              "rating": null,
+              "description": null,
+              "availability": null,
+              "nonClientFacility": false,
+              "favoriteSupport": true,
+              "cta": {
+                "caption": "label_cta_check_availability",
+                "type": "LISTING",
+                "url": "https://koa.com/campgrounds/salinas/"
+              },
+              "contrCode": "KOAI",
+              "affiliation": {
+                "facilityID": 0,
+                "name": "",
+                "agencies": [
+                  {
+                    "code": "KOA Campground",
+                    "name": "KOA Campground",
+                    "logo": null,
+                    "id": 730001,
+                    "url": null
+                  }
+                ],
+                "url": null
+              },
+              "imageURL": "/webphotos/KOAI/pid730495/0/180x120.jpg",
+              "id": 730495,
+              "verifiableAvailability": false,
+              "flexResult": null,
+              "facilityTypes": ["camping"],
+              "actvAdvInd": null,
+              "crossOverCustomLanding": false,
+              "ratingSupport": false,
+              "webAddress": "https://koa.com/campgrounds/salinas/",
+              "dayUseOnly": false,
+              "coordinates": {
+                "latitudeDec": null,
+                "longitudeDegMinSec": null,
+                "longitudeDec": null,
+                "latitude": 36.7912222,
+                "latitudeDegMinSec": null,
+                "longitude": -121.6689583
+              },
+              "baseURL": "/unifSearchInterface.do?interface=camping&contractCode=KOAI&parkId=730495",
+              "stateCodes": ["CA"],
+              "name": "Salinas / Monterey KOA",
+              "dayUse": false,
+              "hiddenOnMap": false,
+              "favorite": false
+            },
+            "id": 730495
           }
         ],
-        "endIndex": 10,
-        "totalPages": 38,
-        "control": { "pageSize": 10, "currentPage": 0 },
+        "endIndex": 50,
+        "totalPages": 8,
+        "control": { "pageSize": 50, "currentPage": 0 },
         "actvAdvInfo": null
       }
     },
@@ -7168,6 +10059,6 @@
         "cart": null
       }
     },
-    "launchURL": "/explore/search-results?type=nearby&longitude=-122.07237049999999&latitude=37.4092297&arrivalDate=2020-08-11&lengthOfStay=2&interest=camping"
+    "launchURL": "/explore/search-results?pageNumber=0&type=nearby&longitude=-122.07237049999999&latitude=37.4092297&arrivalDate=2020-08-11&lengthOfStay=2&interest=camping&rcs=50"
   }
 }
