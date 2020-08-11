@@ -1,5 +1,7 @@
 package ramerica
 
+import "github.com/medyagh/campwiz2/pkg/book"
+
 // Record holds one campsite record// Record is a specific Campsite Record
 type Record struct {
 	Summary         interface{} `json:"summary"`
@@ -72,7 +74,8 @@ type Record struct {
 		HiddenOnMap bool     `json:"hiddenOnMap"`
 		Favorite    bool     `json:"favorite"`
 	} `json:"details"`
-	ID int `json:"id"`
+	ID         int `json:"id"`
+	BookRecord book.Entry
 }
 
 type SearchPage struct {

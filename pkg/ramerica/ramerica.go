@@ -11,7 +11,7 @@ import (
 	"github.com/savaki/jq"
 )
 
-func Search() ([]Record, error) {
+func Search() ([]*Record, error) {
 	resp, err := request()
 	if err != nil {
 		return nil, errors.Wrap(err, "request")
@@ -41,8 +41,8 @@ func request() (*http.Response, error) {
 
 }
 
-func parseRepsonse(resp *http.Response) ([]Record, error) {
-	var records []Record
+func parseRepsonse(resp *http.Response) ([]*Record, error) {
+	var records []*Record
 	doc, err := goquery.NewDocumentFromReader(io.Reader(resp.Body))
 	if err != nil {
 		return nil, errors.Wrap(err, "goqueryNew")
