@@ -36,9 +36,12 @@ func request() (*http.Response, error) {
 	req.Header.Set("Sec-Fetch-Mode", "navigate")
 	req.Header.Set("Sec-Fetch-Dest", "document")
 	req.Header.Set("Accept-Language", "en-US,en;q=0.9")
+	return cachedDo(req)
 
+}
+
+func cachedDo(req *http.Request) (*http.Response, error) {
 	return http.DefaultClient.Do(req)
-
 }
 
 func parseRepsonse(resp *http.Response) ([]*Record, error) {
