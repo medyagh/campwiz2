@@ -18,7 +18,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 
 	applyBookRating(results)
 	results = removeUnwanted(results)
-	tmpl, err := template.New("test").Parse(ResultsTemplate)
+	tmpl, err := template.New("campwiz").Parse(ResultsTemplate)
 	if err != nil {
 		log.Fatalf("failed to parse template")
 	}
