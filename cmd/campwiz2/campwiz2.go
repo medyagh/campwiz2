@@ -17,7 +17,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	applyBookRating(results)
-
+	results = removeUnwanted(results)
 	tmpl, err := template.New("test").Parse(ResultsTemplate)
 	if err != nil {
 		log.Fatalf("failed to parse template")
@@ -49,4 +49,15 @@ func applyBookRating(rs []*ramerica.Record) {
 			}
 		}
 	}
+}
+
+func removeUnwanted(rs []*ramerica.Record) []*ramerica.Record {
+	var frs []*ramerica.Record
+	for _, r := range rs {
+		if !r.Details.Availability.Available && r.Details.VerifiableAvailability {
+			continue
+		}
+		frs = append(frs, r)
+	}
+	return frs
 }
