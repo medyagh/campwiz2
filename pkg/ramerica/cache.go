@@ -1,32 +1,37 @@
 package ramerica
 
 import (
+	"crypto/md5"
+	"fmt"
+	"io"
 	"log"
-	"os"
 	"time"
 
-	"github.com/golang/glog"
-	"github.com/steveyen/gkvlite"
+	"github.com/peterbourgon/diskv"
 )
 
-// cachePath is the location of the cache
-var cachePath = os.ExpandEnv("${HOME}/.campwiz2.cache")
 var searchPageExpiry = time.Duration(6*3600) * time.Second
 
 // store is a gkvlite Store
 var store = getCacheStore()
-var collection = store.SetCollection("cache", nil)
 
 // Returns a gkvlite collection
-func getCacheStore() *gkvlite.Store {
-	glog.Infof("Opening cache store: %s", cachePath)
-	f, err := os.OpenFile(cachePath, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0600)
-	if err != nil {
-		log.Fatal(err)
-	}
-	s, err := gkvlite.NewStore(f)
-	if err != nil {
-		log.Fatal(err)
-	}
-	return s
+func getCacheStore() *diskv.Diskv {
+	log.Printf("Opening cache store")
+	flatTransform := func(s string) []string { return []string{} }
+
+	// Initialize a new diskv store, rooted at "my-data-dir", with a 1MB cache.
+	d := diskv.New(diskv.Options{
+		BasePath:     "data2",
+		Transform:    flatTransform,
+		CacheSizeMax: 1024 * 1024,
+	})
+
+	return d
+}
+
+func md5sum(s string) string {
+	h := md5.New()
+	io.WriteString(h, s)
+	return fmt.Sprintf("%x", h.Sum(nil))
 }

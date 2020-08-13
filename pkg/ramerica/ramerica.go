@@ -141,7 +141,6 @@ func (r HttpReq1) Key() []byte {
 func cachedDo(hreq HttpReq1) (HttpRespResult, error) {
 
 	// reqStr := fmt.Sprintf("%s?%s", baseSearchURL, v.Encode())
-	log.Printf("cachedDO: Url %s", hreq.URL)
 	client := &http.Client{}
 	req, err := http.NewRequest(hreq.Method, hreq.URL, bytes.NewBufferString(hreq.Form.Encode()))
 	if err != nil {
@@ -188,11 +187,12 @@ func cachedDo(hreq HttpReq1) (HttpRespResult, error) {
 	if err != nil {
 		log.Panicf("Failed to read back encoded response: %v", err)
 	} else {
-		err := collection.Set(hreq.Key(), bufBytes)
+		log.Printf("about to write %s to cache", hreq.Key())
+		err := store.Write(md5sum(string(hreq.Key())), bufBytes)
 		if err != nil {
+			log.Printf("failed to set cache: %v", err)
 			return HttpRespResult{}, err
 		}
-		store.Flush()
 	}
 	cr.Cached = false
 	return cr, nil
