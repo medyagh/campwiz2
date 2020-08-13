@@ -10,8 +10,18 @@ import (
 	"github.com/medyagh/campwiz2/pkg/ramerica"
 )
 
+// func getHandler(w http.ResponseWriter, r *http.Request) {
+
+// }
+
 func handler(w http.ResponseWriter, r *http.Request) {
-	results, err := ramerica.Search()
+	c := ramerica.Criteria{
+		Longitude:    -122.07237049999999,
+		Latitude:     37.4092297,
+		ArrivalDate:  "2020-08-14",
+		LengthOfStay: 2,
+	}
+	results, err := ramerica.Search(c)
 	if err != nil {
 		log.Printf("failed to search reserve america. resp: %v  error: %v", results, err)
 	}
@@ -44,7 +54,7 @@ func applyBookRating(rs []*ramerica.Record) {
 	for _, r := range rs {
 		for k, v := range book.LoadedEntries {
 			if strings.Contains(k, r.Name) {
-				log.Printf("\n ------ found book record %q for %q: %+v ------------------ \n ", r.Name, k, r)
+				log.Printf("found book record %q for %q ", r.Name, k)
 				r.BookRecord = v
 			}
 		}
