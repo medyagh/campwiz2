@@ -15,10 +15,10 @@ import (
 var searchPageExpiry = time.Duration(6*3600) * time.Second
 
 // store is a gkvlite Store
-var store = getCacheStore()
+var store = setupKVStore()
 
 // Returns a gkvlite collection
-func getCacheStore() *diskv.Diskv {
+func setupKVStore() *diskv.Diskv {
 	log.Printf("Opening cache store")
 	flatTransform := func(s string) []string { return []string{} }
 
@@ -26,11 +26,11 @@ func getCacheStore() *diskv.Diskv {
 	if err != nil {
 		log.Fatalf("failed to get home dir")
 	}
-	// Initialize a new diskv store, rooted at "my-data-dir", with a 1MB cache.
+	// Initialize a new diskv store, rooted at "homedir/campwiz2", with a 50MB cache.
 	d := diskv.New(diskv.Options{
 		BasePath:     filepath.Join(h, "campwiz2"),
 		Transform:    flatTransform,
-		CacheSizeMax: 1024 * 1024,
+		CacheSizeMax: 50 * 1024 * 1024, // 50 MB
 	})
 
 	return d
@@ -40,7 +40,7 @@ func md5sum(s string) (string, error) {
 	h := md5.New()
 	_, err := io.WriteString(h, s)
 	if err != nil {
-		return "".err
+		return "", err
 	}
 	return fmt.Sprintf("%x", h.Sum(nil)), nil
 }
