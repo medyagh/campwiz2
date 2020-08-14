@@ -5,8 +5,10 @@ import (
 	"fmt"
 	"io"
 	"log"
+	"path/filepath"
 	"time"
 
+	"github.com/mitchellh/go-homedir"
 	"github.com/peterbourgon/diskv"
 )
 
@@ -20,9 +22,13 @@ func getCacheStore() *diskv.Diskv {
 	log.Printf("Opening cache store")
 	flatTransform := func(s string) []string { return []string{} }
 
+	h, err := homedir.Dir()
+	if err != nil {
+		log.Fatalf("failed to get home dir")
+	}
 	// Initialize a new diskv store, rooted at "my-data-dir", with a 1MB cache.
 	d := diskv.New(diskv.Options{
-		BasePath:     "data2",
+		BasePath:     filepath.Join(h, "campwiz2"),
 		Transform:    flatTransform,
 		CacheSizeMax: 1024 * 1024,
 	})
@@ -32,6 +38,9 @@ func getCacheStore() *diskv.Diskv {
 
 func md5sum(s string) string {
 	h := md5.New()
-	io.WriteString(h, s)
+	_, err := io.WriteString(h, s)
+	if err != nil {
+		log.Printf("Error Generating md5")
+	}
 	return fmt.Sprintf("%x", h.Sum(nil))
 }
