@@ -36,11 +36,11 @@ func getCacheStore() *diskv.Diskv {
 	return d
 }
 
-func md5sum(s string) string {
+func md5sum(s string) (string, error) {
 	h := md5.New()
 	_, err := io.WriteString(h, s)
 	if err != nil {
-		log.Printf("Error Generating md5")
+		return "".err
 	}
-	return fmt.Sprintf("%x", h.Sum(nil))
+	return fmt.Sprintf("%x", h.Sum(nil)), nil
 }
