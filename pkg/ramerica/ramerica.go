@@ -37,7 +37,7 @@ func Search(c Criteria) ([]*Record, error) {
 
 	n := 1
 	// for n <= totalPages {
-	for n <= 2 {
+	for n <= totalPages {
 		page, err := request(c, n)
 		if err != nil {
 			return nil, errors.Wrap(err, "request")
@@ -88,7 +88,7 @@ func request(c Criteria, pageNum int) (HttpRespResult, error) {
 		Form:     v,
 		MaxAge:   searchPageExpiry,
 	}
-	return cachedDo(r)
+	return fetchReq(r)
 
 }
 
@@ -138,8 +138,15 @@ func (r HttpReq1) Key() []byte {
 	return buf.Bytes()
 }
 
-func cachedDo(hreq HttpReq1) (HttpRespResult, error) {
-
+func fetchReq(hreq HttpReq1) (HttpRespResult, error) {
+	result, err := tryCache(hreq)
+	if err != nil {
+		log.Printf("not found in cache: %s", hreq.URL)
+	} else {
+		result.Cached = true
+		log.Printf("using cache")
+		return result, nil
+	}
 	// reqStr := fmt.Sprintf("%s?%s", baseSearchURL, v.Encode())
 	client := &http.Client{}
 	req, err := http.NewRequest(hreq.Method, hreq.URL, bytes.NewBufferString(hreq.Form.Encode()))
@@ -196,6 +203,30 @@ func cachedDo(hreq HttpReq1) (HttpRespResult, error) {
 	}
 	cr.Cached = false
 	return cr, nil
+}
+
+func tryCache(hreq HttpReq1) (HttpRespResult, error) {
+	var res HttpRespResult
+	cachedBytes, err := store.Read(md5sum(string(hreq.Key())))
+	if err != nil {
+		return res, err
+	}
+
+	// Item is in cache, but we do not yet know if it is too old.
+	buf := bytes.NewBuffer(cachedBytes)
+	dec := gob.NewDecoder(buf)
+	err = dec.Decode(&res)
+	// Invalid item in cache?
+	if err != nil {
+		return res, err
+	}
+
+	age := time.Since(res.MTime)
+	if age > hreq.MaxAge {
+		return res, fmt.Errorf("URL %s cache was too old", hreq.URL)
+	}
+	log.Printf("Read item from cache: %s (cookies=%+v)", res.URL, res.Cookies)
+	return res, nil
 }
 
 // returns records, current page, total pages and error
@@ -269,7 +300,6 @@ func filterJq(input string, filter string) ([]byte, error) {
 		return resp, errors.Wrap(err, "jq parse")
 	}
 	resp, err = op.Apply([]byte(input)) // value == '"world"'
-	log.Printf("length of parsed jq %d", len(resp))
 	return resp, err
 }
 
