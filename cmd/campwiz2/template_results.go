@@ -24,7 +24,7 @@ var ResultsTemplate = `
 			<th>Name</th>
 			<th>Proximity</th>
 			<td>Availability</td>
-			<td>VerifiableAvailability</td>
+			<td>Verifiable Avail</td>
 			<th>Book Rating</th>
 			<th>Book Desc</th>
         </tr>
